@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","lllVAMPIRE_KINGlll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","ThunderHuMe")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NITUMUSICBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "BABYMUSICXBOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "NITU")
 # ---------------------------------------------------------
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vampire-king-786/NITUMUSICVAMPIRE",
+    "",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
